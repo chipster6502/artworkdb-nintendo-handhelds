@@ -27,16 +27,16 @@
 2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (USA) (En,Fr,De+En)	sstitle	12	lossless
 2 Games in 1 - Sonic Advance + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)	sstitle	12	lossless
 2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)	sstitle	12	lossless
-2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es)	sstitle	12	lossless
+2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es)	lr-titles	12	lossless
 2 Games in 1 - Sonic Battle + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)	sstitle	12	lossless
-2 Games in 1 - Sonic Pinball Party + Columns Crown (Europe) (En,Ja,Fr,De,Es,It+En)	sstitle	12	lossless
+2 Games in 1 - Sonic Pinball Party + Columns Crown (Europe) (En,Ja,Fr,De,Es,It+En)	lr-titles	12	lossless
 2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius (Europe) (En,Fr,De+En,Fr,De,Es)	sstitle	12	lossless
 2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA)	sstitle	12	lossless
 2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + The Fairly OddParents! - Breakin' da Rules (USA)	sstitle	12	lossless
 2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (USA)	sstitle	12	lossless
 2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe)	sstitle	12	lossless
 2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En)	sstitle	12	lossless
-2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)	sstitle	12	lossless
+2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)	lr-titles	12	lossless
 2 Games in 1! - Dragon Ball Z - Buu's Fury + Dragon Ball GT - Transformation (USA)	sstitle	12	lossless
 2 Games in One! - Dr. Mario + Puzzle League (USA)	sstitle	12	lossless
 2 Games in One! - Gauntlet + Rampart (USA)	sstitle	12	lossless
@@ -142,8 +142,8 @@ Backyard Sports - Basketball 2007 (USA)	sstitle	12	lossless
 Backyard Sports - Football 2007 (USA)	sstitle	12	lossless
 Bakuten Shoot Beyblade - Gekitou! Saikyou Blader (Japan)	sstitle	12	lossless
 Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Kouryuu no Shou - Daichi Hen (Japan)	sstitle	12	lossless
-Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)	sstitle	12	lossless
-Bakuten Shoot Beyblade 2002 - Ikuze! Bakutou! Chou Jiryoku Battle!! (Japan)	sstitle	12	lossless
+Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)	lr-titles	12	lossless
+Bakuten Shoot Beyblade 2002 - Ikuze! Bakutou! Chou Jiryoku Battle!! (Japan)	lr-titles	12	lossless
 Baldur's Gate - Dark Alliance (USA)	sstitle	12	lossless
 Ballistic - Ecks vs. Sever (USA)	sstitle	12	lossless
 Banjo-Kazooie - Grunty's Revenge (USA, Europe)	sstitle	12	lossless
@@ -193,7 +193,7 @@ Blue Angelo - Angels from the Shrine (Europe) (Proto 2)	sstitle	12	lossless
 Board Game Classics (USA)	sstitle	12	lossless
 Boboboubo Boubobo - 9 Kyoku Senshi Gag Yuugou (Japan)	sstitle	12	lossless
 Boboboubo Boubobo - Bakutou Hajike Taisen (Japan)	sstitle	12	lossless
-Boboboubo Boubobo - Maji de!! Shinken Battle (Japan)	sstitle	12	lossless
+Boboboubo Boubobo - Maji de!! Shinken Battle (Japan)	lr-titles	12	lossless
 Boboboubo Boubobo - Ougi 87.5 Bakuretsu Hanage Shinken (Japan)	sstitle	12	lossless
 Boktai - The Sun Is in Your Hand (USA)	sstitle	12	lossless
 Boktai 2 - Solar Boy Django (USA)	sstitle	12	lossless
@@ -387,7 +387,7 @@ Dora the Explorer - Dora's World Adventure! (USA)	sstitle	12	lossless
 Dora the Explorer - Super Spies (USA)	sstitle	12	lossless
 Dora the Explorer - Super Star Adventures! (USA)	sstitle	12	lossless
 Dora the Explorer - The Search for the Pirate Pig's Treasure (USA)	sstitle	12	lossless
-Dora the Explorer Double Pack (USA)	sstitle	12	lossless
+Dora the Explorer Double Pack (USA)	lr-titles	12	lossless
 Doraemon - Dokodemo Walker (Japan)	sstitle	12	lossless
 Doraemon - Midori no Wakusei Dokidoki Daikyuushutsu! (Japan)	sstitle	12	lossless
 Double Dragon Advance (USA)	sstitle	12	lossless
@@ -437,10 +437,10 @@ ESPN Winter X-Games Snowboarding 2002 (USA)	sstitle	12	lossless
 ESPN X-Games Skateboarding (USA)	sstitle	12	lossless
 EX Monopoly (Japan)	sstitle	12	lossless
 EZ-Talk - Shokyuu Hen 1 (Japan)	sstitle	12	lossless
-EZ-Talk - Shokyuu Hen 3 (Japan)	sstitle	12	lossless
-EZ-Talk - Shokyuu Hen 4 (Japan)	sstitle	12	lossless
-EZ-Talk - Shokyuu Hen 5 (Japan)	sstitle	12	lossless
-EZ-Talk - Shokyuu Hen 6 (Japan)	sstitle	12	lossless
+EZ-Talk - Shokyuu Hen 3 (Japan)	lr-titles	12	lossless
+EZ-Talk - Shokyuu Hen 4 (Japan)	lr-titles	12	lossless
+EZ-Talk - Shokyuu Hen 5 (Japan)	lr-titles	12	lossless
+EZ-Talk - Shokyuu Hen 6 (Japan)	lr-titles	12	lossless
 Earthworm Jim (USA, Europe)	sstitle	12	lossless
 Earthworm Jim 2 (USA)	sstitle	12	lossless
 Ecks vs Sever (USA) (En,Fr,De,Es,It)	sstitle	12	lossless
@@ -474,8 +474,8 @@ Fairly OddParents!, The - Breakin' da Rules (USA)	sstitle	12	lossless
 Fairly OddParents!, The - Clash with the Anti-World (USA)	sstitle	12	lossless
 Fairly OddParents!, The - Enter the Cleft (USA)	sstitle	12	lossless
 Fairly OddParents!, The - Shadow Showdown (USA)	sstitle	12	lossless
-Famicom Mini - Dai-2-ji Super Robot Taisen (Japan) (Promo)	sstitle	12	lossless
-Famicom Mini - Kidou Senshi Z Gundam - Hot Scramble (Japan) (Promo)	sstitle	12	lossless
+Famicom Mini - Dai-2-ji Super Robot Taisen (Japan) (Promo)	lr-titles	12	lossless
+Famicom Mini - Kidou Senshi Z Gundam - Hot Scramble (Japan) (Promo)	lr-titles	12	lossless
 Famicom Mini 08 - Mappy (Japan) (En)	sstitle	12	lossless
 Famicom Mini 10 - Star Soldier (Japan) (En)	sstitle	12	lossless
 Famicom Mini 11 - Mario Bros. (Japan)	sstitle	12	lossless
@@ -541,7 +541,7 @@ Fushigi no Kuni no Angelique (Japan)	sstitle	12	lossless
 Futari wa Pretty Cure - Arienaai! Yume no Sono wa Daimeikyuu (Japan)	sstitle	12	lossless
 Futari wa Pretty Cure Max Heart - Maji Maji! Fight de IN Janai (Japan)	sstitle	12	lossless
 Fuzz & Rocket (USA) (Proto)	sstitle	12	lossless
-GP-1 Racing (USA) (Proto)	sstitle	12	lossless
+GP-1 Racing (USA) (Proto)	lr-titles	12	lossless
 GT Advance - Championship Racing (USA, Europe)	sstitle	12	lossless
 GT Advance 2 - Rally Racing (USA)	sstitle	12	lossless
 GT Advance 3 - Pro Concept Racing (USA)	sstitle	12	lossless
@@ -692,7 +692,7 @@ Invader (Europe)	sstitle	12	lossless
 Invincible Iron Man, The (USA, Europe)	sstitle	12	lossless
 Iridion 3D (World) (Steam, GOG)	sstitle	12	lossless
 Iridion II (USA)	sstitle	12	lossless
-Iron Kid (Korea)	sstitle	12	lossless
+Iron Kid (Korea)	lr-titles	12	lossless
 Island Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)	sstitle	12	lossless
 Isseki Hatchou - Kore 1ppon de 8shurui! (Japan)	sstitle	12	lossless
 It's Mr. Pants (USA, Europe)	sstitle	12	lossless
@@ -726,7 +726,7 @@ Kaeru B Back (Japan)	sstitle	12	lossless
 Kaiketsu Zorori to Mahou no Yuuenchi - Ohimesama o Sukue! (Japan)	sstitle	12	lossless
 Kamaitachi no Yoru Advance (Japan)	sstitle	12	lossless
 Kami no Kijutsu - Illusion of the Evil Eyes (Japan)	sstitle	12	lossless
-Kappa no Kai-kata - Kaatan Daibouken! (Japan)	sstitle	12	lossless
+Kappa no Kai-kata - Kaatan Daibouken! (Japan)	lr-titles	12	lossless
 Karnaaj Rally (USA, Europe)	sstitle	12	lossless
 Kawa no Nushi Tsuri 3 & 4 (Japan)	sstitle	12	lossless
 Kawa no Nushi Tsuri 5 - Fushigi no Mori kara (Japan)	sstitle	12	lossless
@@ -737,7 +737,7 @@ Keitai Denjuu Telefang 2 - Power (Japan)	sstitle	12	lossless
 Keitai Denjuu Telefang 2 - Speed (Japan)	sstitle	12	lossless
 Kelly Slater's Pro Surfer (USA, Europe)	sstitle	12	lossless
 Keroro Gunsou - Taiketsu! Gekisou Keronprix Daisakusen de Arimasu!! (Japan)	sstitle	12	lossless
-Kessaku Sen! - Ganbare Goemon 1, 2 - Yuki Hime to Magginesu (Japan)	sstitle	12	lossless
+Kessaku Sen! - Ganbare Goemon 1, 2 - Yuki Hime to Magginesu (Japan)	lr-titles	12	lossless
 Kid Paddle (Europe) (Fr,Nl)	sstitle	12	lossless
 Kid's Cards (USA)	sstitle	12	lossless
 Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan)	sstitle	12	lossless
@@ -753,8 +753,8 @@ Kim Possible 3 - Team Possible (USA) (En,Fr)	sstitle	12	lossless
 King of Fighters EX 2, The - Howling Blood (USA)	sstitle	12	lossless
 King of Fighters EX, The - NeoBlood (USA)	sstitle	12	lossless
 Kingdom Hearts - Chain of Memories (USA)	sstitle	12	lossless
-Kinniku Banzuke - Kimero! Kiseki no Kanzen Seiha (Japan)	sstitle	12	lossless
-Kinniku Banzuke - Kongou-kun no Daibouken! (Japan)	sstitle	12	lossless
+Kinniku Banzuke - Kimero! Kiseki no Kanzen Seiha (Japan)	lr-titles	12	lossless
+Kinniku Banzuke - Kongou-kun no Daibouken! (Japan)	lr-titles	12	lossless
 Kirby & The Amazing Mirror (USA)	sstitle	12	lossless
 Kirby - Nightmare in Dream Land (USA)	sstitle	12	lossless
 Kisekko Gurumii - Chesty to Nuigurumi-tachi no Mahou no Bouken (Japan)	sstitle	12	lossless
@@ -859,7 +859,7 @@ Magical Quest 2 Starring Mickey & Minnie (USA) (En,Fr,De)	sstitle	12	lossless
 Magical Quest 3 Starring Mickey & Donald (USA) (En,Fr,De)	sstitle	12	lossless
 Magical Quest Starring Mickey & Minnie (USA)	sstitle	12	lossless
 Magical Vacation (Japan)	sstitle	12	lossless
-Mahjong Keiji (Japan)	sstitle	12	lossless
+Mahjong Keiji (Japan)	lr-titles	12	lossless
 Mahou Sensei Negima! - Private Lesson - Damedesuu Toshokan-jima (Japan)	sstitle	12	lossless
 Mahou Sensei Negima! - Private Lesson 2 - Ojamashimasuu Parasite de Chuu (Japan)	sstitle	12	lossless
 Mail de Cute (Japan)	sstitle	12	lossless
@@ -937,15 +937,15 @@ Minami no Umi no Odyssey (Japan)	sstitle	12	lossless
 Mini Moni. - Mika no Happy Morning Chatty (Japan)	sstitle	12	lossless
 Mini Moni. - Onegai Ohoshi-sama! (Japan)	sstitle	12	lossless
 Minna no Ouji-sama (Japan)	sstitle	12	lossless
-Minna no Shiiku Series - Boku no Kabuto, Kuwagata (Japan)	sstitle	12	lossless
-Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)	sstitle	12	lossless
-Minna no Shiiku Series 2 - Boku no Kuwagata (Japan)	sstitle	12	lossless
+Minna no Shiiku Series - Boku no Kabuto, Kuwagata (Japan)	lr-titles	12	lossless
+Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)	lr-titles	12	lossless
+Minna no Shiiku Series 2 - Boku no Kuwagata (Japan)	lr-titles	12	lossless
 Minna no Soft Series - Happy Trump 20 (Japan)	sstitle	12	lossless
 Minna no Soft Series - Hyokkori Hyoutan-jima - Don Gabacho Daikatsuyaku no Maki (Japan)	sstitle	12	lossless
-Minna no Soft Series - Minna no Mahjong (Japan)	sstitle	12	lossless
+Minna no Soft Series - Minna no Mahjong (Japan)	lr-titles	12	lossless
 Minna no Soft Series - Minna no Shougi (Japan)	sstitle	12	lossless
 Minna no Soft Series - Shanghai (Japan)	sstitle	12	lossless
-Minna no Soft Series - Tetris Advance (Japan)	sstitle	12	lossless
+Minna no Soft Series - Tetris Advance (Japan)	lr-titles	12	lossless
 Minority Report - Everybody Runs (USA, Europe)	sstitle	12	lossless
 Mirakuru! Panzou - 7-tsu no Hoshi no Uchuu Kaizoku (Japan)	sstitle	12	lossless
 Mission Impossible - Operation Surma (USA) (En,Fr,Es)	sstitle	12	lossless
@@ -962,7 +962,7 @@ Monster Guardians (Japan)	sstitle	12	lossless
 Monster House (USA) (En,Fr)	sstitle	12	lossless
 Monster Jam - Maximum Destruction (USA)	sstitle	12	lossless
 Monster Maker 4 - Flash Card (Japan)	sstitle	12	lossless
-Monster Maker 4 - Killer Dice (Japan)	sstitle	12	lossless
+Monster Maker 4 - Killer Dice (Japan)	lr-titles	12	lossless
 Monster Rancher Advance (USA)	sstitle	12	lossless
 Monster Rancher Advance 2 (USA)	sstitle	12	lossless
 Monster Summoner (Japan)	sstitle	12	lossless
@@ -1037,13 +1037,13 @@ Nobunaga no Yabou (Japan)	sstitle	12	lossless
 Noddy - A Day in Toyland (USA) (En,Fr,Es)	sstitle	12	lossless
 Nyan Nyan Nyanko no NyanCollection (Japan)	sstitle	12	lossless
 Ochaken Kururin - Honwaka Puzzle de Hotto Shiyo (Japan)	sstitle	12	lossless
-Ochaken no Bouken-jima - Honwaka Yume no Island (Japan)	sstitle	12	lossless
+Ochaken no Bouken-jima - Honwaka Yume no Island (Japan)	lr-titles	12	lossless
 Ochaken no Heya (Japan)	sstitle	12	lossless
 Ochaken no Yume Bouken (Japan)	sstitle	12	lossless
 Oddworld - Munch's Oddysee (USA, Europe)	sstitle	12	lossless
 Ohanaya-san Monogatari GBA - Iyashikei Ohanaya-san Ikusei Game (Japan)	sstitle	12	lossless
 Ojarumaru - Gekkouchou Sanpo de Ojaru (Japan)	sstitle	12	lossless
-Okumanchouja Game - Nottori Daisakusen! (Japan)	sstitle	12	lossless
+Okumanchouja Game - Nottori Daisakusen! (Japan)	lr-titles	12	lossless
 One Piece (USA)	sstitle	12	lossless
 One Piece - Dragon Dream (Japan)	sstitle	12	lossless
 One Piece - Going Baseball - Kaizoku Yakyuu (Japan)	sstitle	12	lossless
@@ -1140,7 +1140,7 @@ Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy (Eu
 Prince of Persia - The Sands of Time (USA) (En,Fr,Es)	sstitle	12	lossless
 Princess Natasha - Student, Secret Agent, Princess (USA)	sstitle	12	lossless
 Pro Mahjong Tsuwamono GBA (Japan)	sstitle	12	lossless
-Pro Yakyuu Team o Tsukurou! Advance (Japan)	sstitle	12	lossless
+Pro Yakyuu Team o Tsukurou! Advance (Japan)	lr-titles	12	lossless
 Proud Family, The (USA)	sstitle	12	lossless
 PukuPuku Tennen Kairanban (Japan)	sstitle	12	lossless
 PukuPuku Tennen Kairanban - Koi no Cupid Daisakusen (Japan)	sstitle	12	lossless
@@ -1242,8 +1242,8 @@ Shaman King - Legacy of the Spirits - Soaring Hawk (USA)	sstitle	12	lossless
 Shaman King - Legacy of the Spirits - Sprinting Wolf (USA)	sstitle	12	lossless
 Shaman King - Master of Spirits (USA)	sstitle	12	lossless
 Shaman King - Master of Spirits 2 (USA)	sstitle	12	lossless
-Shaman King Card Game - Chou Senjiryakketsu 2 (Japan)	sstitle	12	lossless
-Shaman King Card Game - Chou Senjiryakketsu 3 (Japan)	sstitle	12	lossless
+Shaman King Card Game - Chou Senjiryakketsu 2 (Japan)	lr-titles	12	lossless
+Shaman King Card Game - Chou Senjiryakketsu 3 (Japan)	lr-titles	12	lossless
 Shamu's Deep Sea Adventures (USA)	sstitle	12	lossless
 Shanghai Advance (Japan)	sstitle	12	lossless
 Shantae Advance - Risky Revolution (World) (Limited Run Games)	sstitle	12	lossless
@@ -1553,7 +1553,7 @@ Wild Thornberrys Movie, The (USA, Europe)	sstitle	12	lossless
 Wild Thornberrys, The - Chimp Chase (USA, Europe)	sstitle	12	lossless
 Wild, The (USA, Europe) (En,Fr,De,Es)	sstitle	12	lossless
 Wilden Fussball-Kerle, Die - Entscheidung im Teufelstopf (Germany)	sstitle	12	lossless
-Wilden Fussball-Kerle, Die - Gefahr im Wilde Kerle Land (Germany)	sstitle	12	lossless
+Wilden Fussball-Kerle, Die - Gefahr im Wilde Kerle Land (Germany)	lr-titles	12	lossless
 WinX Club (USA)	sstitle	12	lossless
 WinX Club - Quest for the Codex (USA)	sstitle	12	lossless
 Wing Commander - Prophecy (USA)	sstitle	12	lossless
@@ -1605,7 +1605,7 @@ Zen-Nihon Shounen Soccer Taikai 2 - Mezase Nihon-ichi! (Japan)	sstitle	12	lossle
 Zero One (Japan)	sstitle	12	lossless
 Zero One SP (Japan)	sstitle	12	lossless
 Zero-Tours (Japan)	sstitle	12	lossless
-Zettaizetsumei Dangerous Jiisan - Naki no 1-kai - Zettaifukujuu Violence Kouchou - Wagahai ga 1-ban Erainjai!! (Japan)	sstitle	12	lossless
+Zettaizetsumei Dangerous Jiisan - Naki no 1-kai - Zettaifukujuu Violence Kouchou - Wagahai ga 1-ban Erainjai!! (Japan)	lr-titles	12	lossless
 Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza (Japan)	sstitle	12	lossless
 Zettaizetsumei Dangerous Jiisan 3 - Hateshinaki Mamonogatari (Japan)	sstitle	12	lossless
 Zettaizetsumei Dangerous Jiisan Tsuu - Ikari no Oshioki Blues (Japan)	sstitle	12	lossless
